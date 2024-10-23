@@ -24,7 +24,7 @@ At the heart of ChainGuard is a robust blockchain structure, where each block is
 
 The block hash is calculated as:
 
-mathematica
+Mathematical
 
 Block Hash = H(Index + Previous Hash + Transactions + Timestamp + Nonce)
 
